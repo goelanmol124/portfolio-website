@@ -1,0 +1,116 @@
+{
+    "personal": {
+        "name": "Anmol Goel",
+        "tagline": "Building the Future at the Intersection of AI & Biotechnology",
+        "current_status": "Final Year B.Tech in Biochemical Engineering & Biotechnology at IIT Delhi",
+        "email": "anmol.goel.iitd@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/anmol-goel-iitd/",
+        "github": "https://github.com/goelanmol124",
+        "location": "New Delhi, India"
+    },
+    "about": "I am a rigorous researcher and engineer with a passion for solving high-stakes problems. From developing defense technology for the Indian Army to winning silver at iGEM Paris, I thrive on innovation. Currently, I am exploring the synergy between AI and Biotech, while preparing to join Alvarez & Marsal as an Associate.",
+    "experience": [
+        {
+            "company": "Alvarez & Marsal",
+            "role": "Incoming Associate",
+            "team": "Business Transformation Services (BTS)",
+            "duration": "Incoming (2026)",
+            "description": "Joining the India Front Office to drive business transformation."
+        },
+        {
+            "company": "Hindustan Unilever R&D",
+            "role": "Intern",
+            "duration": "May 2025 - July 2025",
+            "description": "Developed E2E solution for Surfactant Stability. Reduced testing time from 84 days to hours. Consolidated 300k+ records and trained ML models (RF/XGB/LightGBM) with R²=0.75."
+        },
+        {
+            "company": "Indian Army",
+            "role": "Project Researcher",
+            "duration": "Feb 2025 - Mar 2025",
+            "description": "Developed Terrain Adaptive Camouflage & Concealment Software using K-means clustering and OpenCV. Received formal LoR."
+        },
+        {
+            "company": "ITC Limited",
+            "role": "Technical Lead (Corporate Project)",
+            "duration": "July 2025 - Ongoing",
+            "description": "Leading a 5-member team to develop ESG reporting solutions. Reduced heuristic requirement time by 75%."
+        },
+        {
+            "company": "IIT Delhi (Remote)",
+            "role": "Research Intern (Prof. Shouri Chatterjee)",
+            "duration": "July 2024 - Oct 2024",
+            "description": "Capsule Endoscopy Tracking. Achieved 91.75% accuracy in disease classification on Kvasir Dataset."
+        }
+    ],
+    "projects": [
+        {
+            "title": "Traaksh",
+            "subtitle": "NCIIPC AI Grand Challenge",
+            "tech": [
+                "AI",
+                "RF Localization"
+            ],
+            "description": "RF Emitter Localization from noisy Pulse Descriptor Words. Stage 2 qualifier, incubated at FITT IIT Delhi. Team 'Fantastic Four'."
+        },
+        {
+            "title": "Bhaasha.in",
+            "subtitle": "Legal Translation Platform",
+            "tech": [
+                "GenAI",
+                "OCR",
+                "RAG"
+            ],
+            "description": "Agentic legal translation platform for Indian courts. Engineered multi-agent pipeline; conducted 50+ stakeholder interviews. Live beta with 50+ users.",
+            "link": "https://bhaasha.in"
+        },
+        {
+            "title": "Molecular Dynamics Simulations",
+            "subtitle": "Bachelor's Thesis",
+            "tech": [
+                "SPIB Metadynamics",
+                "Biotech"
+            ],
+            "description": "Studying proteins like T4 Lysozyme and FKBP12 using State-specific Information Bottleneck Metadynamics."
+        },
+        {
+            "title": "PRISM",
+            "subtitle": "GenAI Video Tool",
+            "tech": [
+                "GenAI",
+                "Video Processing"
+            ],
+            "description": "Generative AI project to convert long-form content into short-form video."
+        }
+    ],
+    "leadership": [
+        {
+            "role": "Overall Coordinator",
+            "organization": "ARIES (AI Society of IIT Delhi)",
+            "duration": "June 2023 - Present",
+            "description": "Scaled team to 60 members. Onboarded ITC as client. Drove 400% turnout growth."
+        },
+        {
+            "role": "Representative",
+            "organization": "Board for Student Welfare (BSW)",
+            "duration": "June 2023 - May 2024",
+            "description": "Secured 75% student mandate. Awarded 'Best Representative'."
+        }
+    ],
+    "skills": [
+        "Machine Learning (CV, NLP)",
+        "Signal Processing",
+        "Molecular Dynamics",
+        "Python",
+        "SQL",
+        "Shell",
+        "RunPod/Heavy Compute",
+        "Web Development"
+    ],
+    "achievements": [
+        "Department Rank 1 (Biotech, 6 semesters)",
+        "iGEM Paris Silver Medal (2024)",
+        "IIT Delhi Semester Merit Awards (Top 7%)",
+        "KVPY Fellow (Top 1%)",
+        "National Finalist: Smart India Hackathon (2023, 2024)"
+    ]
+}
