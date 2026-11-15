@@ -8,13 +8,13 @@
         "github": "https://github.com/goelanmol124",
         "location": "Bangalore, India"
     },
-    "about": "I currently work at Lemnisca. I build at the intersection of biotechnology and AI: bioprocess modelling and molecular simulation on one side, AI agents and developer tools on the other. At IIT Delhi I ranked first in my department, won silver at iGEM Paris, and built defence and industry tools ranging from terrain-adaptive camouflage for the Indian Army to ML for surfactant stability at HUL R&D. Lately I've been shipping open-source tools: an MCP server that lets AI agents work in Jupyter notebooks, an offline document redaction engine, and a Python port of the IndPenSim penicillin fermentation simulator.",
+    "about": "I currently work at Lemnisca as a Bioprocess Systems Engineer. I build at the intersection of biotechnology and AI: bioprocess modelling and molecular simulation on one side, AI agents and developer tools on the other. At IIT Delhi I ranked first in my department, won silver at iGEM Paris, and built defence and industry tools ranging from terrain-adaptive camouflage for the Indian Army to ML for surfactant stability at HUL R&D. Lately I've been shipping open-source tools: an MCP server that lets AI agents work in Jupyter notebooks, an offline document redaction engine, and a Python port of the IndPenSim penicillin fermentation simulator.",
     "experience": [
         {
             "company": "Lemnisca",
-            "role": "Team member",
+            "role": "Bioprocess Systems Engineer",
             "duration": "2026 – Present",
-            "description": "Working at the intersection of bioprocess engineering and AI."
+            "description": "Building models and tools at the intersection of bioprocess engineering and AI."
         },
         {
             "company": "Hindustan Unilever R&D",
