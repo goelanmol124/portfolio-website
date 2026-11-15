@@ -122,6 +122,17 @@
             "github": "https://github.com/goelanmol124/IndPenSim_Python"
         },
         {
+            "title": "Proinsulin fed-batch optimisation",
+            "subtitle": "Model-based bioprocess optimisation",
+            "tech": [
+                "Bioprocess",
+                "Bayesian optimisation",
+                "ODE modelling"
+            ],
+            "description": "Mechanistic E. coli proinsulin fed-batch simulator and a head-to-head benchmark of five optimisers; multi-fidelity Bayesian optimisation reaches about 4x the trial-and-error baseline within ~40 batches.",
+            "github": "https://github.com/goelanmol124/proinsulin-fedbatch-optimization"
+        },
+        {
             "title": "layout-redact",
             "subtitle": "Offline document redaction",
             "tech": [
