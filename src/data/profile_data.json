@@ -69,6 +69,18 @@
             "link": "https://bhaasha.in"
         },
         {
+            "title": "open-challenge-platform",
+            "subtitle": "Open innovation template",
+            "tech": [
+                "Next.js",
+                "LLM evaluation",
+                "Drizzle",
+                "MySQL"
+            ],
+            "description": "Config-driven platform where owners post problems, solvers submit solutions, an LLM scores them against a custom rubric and owners endorse the best. Works for civic challenges, corporate innovation and research bounties.",
+            "github": "https://github.com/goelanmol124/open-challenge-platform"
+        },
+        {
             "title": "COMPASS",
             "subtitle": "Bachelor's thesis · molecular dynamics",
             "tech": [
@@ -125,6 +137,18 @@
             ],
             "description": "Turn-based Among Us-style simulation engine, replay visualiser and participant kit for an IIT Delhi agentic-AI tournament.",
             "github": "https://github.com/goelanmol124/8fold_Amoungus_Participants"
+        },
+        {
+            "title": "thought-map",
+            "subtitle": "Question-driven brainstorming",
+            "tech": [
+                "React",
+                "Yjs",
+                "Local-first",
+                "WebRTC"
+            ],
+            "description": "Answer one question at a time and grow a mind-map style idea tree. Local-first with Markdown export and experimental peer-to-peer.",
+            "github": "https://github.com/goelanmol124/thought-map"
         }
     ],
     "leadership": [
